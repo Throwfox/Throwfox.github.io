@@ -2,31 +2,35 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hao Dai
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th June 1988
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: National Yang Ming Chiao Tung University
+      year: 2016~
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Institute of Information Management.
+        - Health information technology. 
+        - title: Machine Learning.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Time-series analysis.
+            - Health informatics.
+            - Explainable AI.
+    - title: Master
+      institution: Nanjing Normal University
+      year: 2013~2015
       description:
-        - Description 1.
-        - Description 2.
+        - College of Psychology.
+        - title: Applied psychology.
+          contents:
+            - Consultant.
+            - Mindfulness.
 
 - title: Experience
   type: time_table
