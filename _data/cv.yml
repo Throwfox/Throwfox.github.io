@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 12th June 1988
     - name: Languages
-      value: English, Chinese
+      value: English, Mandarin
 
 - title: Education
   type: time_table
@@ -64,9 +64,9 @@
 
 - title: Skills
   type: nested_list
-  contents: Engineering & Academic
-  - title: 
-  items:
+  contents: 
+  - title: Engineering & Academic 
+    items:
     - Expertise in programming languages, such as Python, R
     - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
     - Experienced in applied machine learning and data mining algorithms for developing different applications
