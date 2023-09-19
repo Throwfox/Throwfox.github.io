@@ -7,10 +7,10 @@ subtitle: Ph.D. Candidate in Information Management
 profile:
   align: right
   image: pro_damon.jpg
-  #address: >
-    #<p>Birth date: June 1988</p>
-    #<p>Home: Nanjing</p>
-    #<p>Research interests: Machine Learning; Explainable AI; Health Informatics </p>
+  address: >
+    <p>Email: damon882046@gmail.com</p>
+    <p>Phone: +86 13770525787</p>
+    <p>Wechat: throwfox </p>
 
 news: false  # includes a list of news items
 Publications: true # includes a list of papers marked as "selected={true}"
