@@ -88,13 +88,13 @@
   type: time_table
   contents:
     - title: Journal/Conference
-    - year: 2019-now
+    - year: 2019~
       items: 
         -IEEE Journal of Biomedical and Health Informatics
-        -Elsevier- Information Sciences
-        -Springer- Soft Computing
-        -Springer- Artificial Intelligence Review
-        -Springer- Journal of ambient intelligence and humanized computing
-        -Taylor & Francis - International Journal of Modelling and Simulation
+        -Information Sciences
+        -Soft Computing
+        -Artificial Intelligence Review
+        -Journal of ambient intelligence and humanized computing
+        -International Journal of Modelling and Simulation
         -European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)
 
