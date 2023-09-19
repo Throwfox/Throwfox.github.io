@@ -72,30 +72,36 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Award of Outstanding Students 
+        - Best Paper of UHIMA 2017
+    - year: 2016~2018
       items: 
-        - Max Planck Medal
+        - Award of Outstanding Students
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Biomedical Informatics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Machine/Deep Learning-based Model Developing
+    - title: Medical Time-series Data Analysis.
+      items: 
+        - Early Prediction.
+        - Classification.
+    - title: Intelligent Healthcare Application.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - In-hospital Support System.
+        - Portable Efficiency System.
+    - title: Explainable Artificial Intelligence.
+      items:
+        - Multi-objectives XAI.
+        - XAI for the medical environment.
+- title: Lifestyle
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Workout, Photography, Playing piano.
