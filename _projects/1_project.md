@@ -10,6 +10,6 @@ description: [Proposed and Implemented a sequence-to-sequence prediction algorit
 , The details of this proposed framework can be found in the paper - 'Periodic Attention-based Stacked Sequence to Sequence
 Framework for Long-term Travel Time Prediction']
 img: 
-importance: 2
+importance: 1
 category: Academic
 ---
