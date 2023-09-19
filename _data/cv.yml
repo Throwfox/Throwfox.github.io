@@ -22,12 +22,12 @@
             - Time-series analysis.
             - Health informatics.
             - Explainable AI.
-    - title: Phd (Exchanged)
+    - title: PhD (Exchanged)
       institution: Shanghai Jiao Tong University
       year: 2018~2019
       description:
         - College of ANTAI.
-        - title: Information Technology.
+        - Information Technology.
     - title: Master
       institution: Nanjing Normal University
       year: 2013~2015
@@ -65,7 +65,7 @@
 - title: Professional Skills
   type: list
   contents:
-    items: 
+  description:
     - Expertise in programming languages, such as Python, R
     - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
     - Experienced in applied machine learning and data mining algorithms for developing different applications
