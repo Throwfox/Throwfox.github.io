@@ -64,15 +64,14 @@
 
 - title: Skills
   type: nested_list
-  contents: Professional & Academic
+  contents: Engineering & Academic
   - title: 
   items:
     - Expertise in programming languages, such as Python, R
     - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
     - Experienced in applied machine learning and data mining algorithms for developing different applications
     - Experienced in interdisciplinary collaborations with different institutes
-    - Good communication skills, strong motivation, respect for laboratory members, ability to advance a project productively and
-work independently
+    - Good communication skills, strong motivation, respect for laboratory members, ability to advance a project productively and work independently
  
 - title: Awards
   type: time_table
