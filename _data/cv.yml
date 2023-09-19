@@ -38,7 +38,38 @@
           contents:
             - Consultant.
             - Mindfulness.
-
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Biomedical Informatics
+      items: 
+        - Machine/Deep Learning-based Model Developing
+    - title: Medical Time-series Data Analysis.
+      items: 
+        - Early Prediction.
+        - Classification.
+    - title: Intelligent Healthcare Application.
+      items:
+        - In-hospital Support System.
+        - Portable Efficiency System.
+    - title: Explainable Artificial Intelligence.
+      items:
+        - Multi-objectives XAI.
+        - XAI for the medical environment.
+- title: Lifestyle
+  type: list
+  contents:
+    - <u>Hobbies:</u> Workout, Photography, Playing piano.
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2017
+      items: 
+        - Award of Outstanding Students 
+        - Best Paper of UHIMA 2017
+    - year: 2016~2018
+      items: 
+        - Award of Outstanding Students
 - title: Experience
   type: time_table
   contents:
@@ -72,43 +103,17 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Professional Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Journal/Conference
+      year: 2019-now
+      items: 
+        -IEEE Journal of Biomedical and Health Informatics
+        -Elsevier- Information Sciences
+        -Springer- Soft Computing
+        -Springer- Artificial Intelligence Review
+        -Springer- Journal of ambient intelligence and humanized computing
+        -Taylor & Francis - International Journal of Modelling and Simulation
+        -European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)
 
-- title: Awards
-  type: time_table
-  contents:
-    - year: 2017
-      items: 
-        - Award of Outstanding Students 
-        - Best Paper of UHIMA 2017
-    - year: 2016~2018
-      items: 
-        - Award of Outstanding Students
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Biomedical Informatics
-      items: 
-        - Machine/Deep Learning-based Model Developing
-    - title: Medical Time-series Data Analysis.
-      items: 
-        - Early Prediction.
-        - Classification.
-    - title: Intelligent Healthcare Application.
-      items:
-        - In-hospital Support System.
-        - Portable Efficiency System.
-    - title: Explainable Artificial Intelligence.
-      items:
-        - Multi-objectives XAI.
-        - XAI for the medical environment.
-- title: Lifestyle
-  type: list
-  contents:
-    - <u>Hobbies:</u> Workout, Photography, Playing piano.
