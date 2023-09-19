@@ -63,9 +63,9 @@
     - <u>Hobbies:</u> Workout, Photography, Playing piano.
 
 - title: Professional Skills
-  type: list
+  type: nested_list
   contents:
-  description:
+  items:
     - Expertise in programming languages, such as Python, R
     - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
     - Experienced in applied machine learning and data mining algorithms for developing different applications
@@ -121,7 +121,7 @@ work independently
   contents:
     - title: Journal/Conference
       year: 2019-now
-      items: 
+      description: 
         -IEEE Journal of Biomedical and Health Informatics
         -Elsevier- Information Sciences
         -Springer- Soft Computing
