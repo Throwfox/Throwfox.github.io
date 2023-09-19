@@ -7,10 +7,10 @@ subtitle: Ph.D. Candidate in Information Management
 profile:
   align: right
   image: pro_damon.jpg
-  #address: >
-  #  <p>Birth date: June 1988</p>
-  #  <p>Home: Nanjing</p>
-  #  <p>Research interests: Machine Learning; Explainable AI; Health Informatics </p>
+  brief-intro: >
+    <p>Birth date: June 1988</p>
+    <p>Home: Nanjing</p>
+    <p>Research interests: Machine Learning; Explainable AI; Health Informatics </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
