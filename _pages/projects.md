@@ -5,7 +5,7 @@ permalink: /projects/
 description: All academic projects are shown as follows. 
 nav: true
 display_categories: [Academic]
-horizontal: False
+horizontal: True
 ---
 
 <!-- pages/projects.md -->
