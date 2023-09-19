@@ -62,9 +62,10 @@
   contents:
     - <u>Hobbies:</u> Workout, Photography, Playing piano.
 
-- title: Professional Skills
+- title: Skills
   type: nested_list
-  contents:
+  contents: Professional & Academic
+  - title: 
   items:
     - Expertise in programming languages, such as Python, R
     - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
