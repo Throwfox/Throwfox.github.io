@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 description: All academic projects are shown as follows. 
 nav: true
-nav_order: 2
 display_categories: [Academic]
 horizontal: false
 ---
