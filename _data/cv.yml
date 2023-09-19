@@ -88,7 +88,7 @@
   type: time_table
   contents:
     - title: Journal/Conference
-      year: 2019-now
+    - year: 2019-now
       items: 
         -IEEE Journal of Biomedical and Health Informatics
         -Elsevier- Information Sciences
