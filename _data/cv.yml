@@ -44,9 +44,11 @@
     - title: Health Informatics
       items: 
         - Machine/Deep Learning-based Model Developing
-    - title: Medical Time-series Data Analysis.
+        - Health Digital Twins
+    - title: Time-series Data Analysis.
       items: 
         - Early Prediction.
+        - Long-term Prediction
         - Classification.
     - title: Intelligent Healthcare Application.
       items:
@@ -56,7 +58,7 @@
       items:
         - Multi-objectives XAI.
         - XAI for the medical environment.
-        
+        - XAI for time-series analytics.
 - title: Lifestyle
   type: list
   contents:
