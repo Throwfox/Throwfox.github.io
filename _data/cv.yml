@@ -41,7 +41,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Biomedical Informatics
+    - title: Health Informatics
       items: 
         - Machine/Deep Learning-based Model Developing
     - title: Medical Time-series Data Analysis.
