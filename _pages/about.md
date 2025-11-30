@@ -2,21 +2,25 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Information Management
+subtitle: Postdoctoral Fellow, Biostatistics and Health Data Science
 
 profile:
   align: right
   image: pro_damon.jpg
   address: >
-    <p>Email: damon882046@gmail.com</p>
-    <p>Phone: +86 13770525787</p>
-    <p>Wechat: throwfox </p>
+    <p>Indiana University School of Medicine</p>
+    <p>340 West 10th Street, Fairbanks Hall, Suite 6200</p>
+    <p>Indianapolis, IN 46202-3082</p>
+    <p>Email: daihao@iu.edu</p>
+    <p>Phone: (352) 222-6015</p>
 
 news: false  # includes a list of news items
 Publications: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. candidate student at the institute of Information Management at National Yang Ming Chiao Tung University. I am very fortunate to be supervised by [Prof. Dr. Vincent S. Tseng](https://people.cs.nctu.edu.tw/~vtseng/) and [Prof. Dr. Hwang Hsin-Ginn](https://www.iim.nycu.edu.tw/en/teacher/Hwang-Hsin-Ginn). Before that, I obtained my master degree from Nanjing Normal University. 
+I have a strong computer science background complemented by two years of postdoctoral training in health informatics, where I was specifically trained to apply advanced computational methods to solve practical clinical problems through close collaboration with clinicians.
 
-My Ph.D. dissertation is "A Study of Medical Early Warning Systems Using Time-series Data". My research interests includes machine learning for EHR data analysis, time series analysis, explainability AI, and digital twin. More specifically, I am interested in developing data-driven methods, including machine learning and deep learning, for solving real-world medical problems.
+My research leverages real-world data from EHR and claims databases to generate real-world evidence that informs clinical decision-making. I have published across three complementary dimensions as the first author: (1) evidence-finding clinical studies (e.g., JAMA Oncology), (2) applications of informatics to address real-world healthcare challenges (e.g., JCO Clinical Cancer Informatics), and (3) methodological innovations proposing new techniques (e.g., IEEE JBHI, Journal of Biomedical Informatics).
+
+Methodologically, my work emphasizes causal inference and machine learning approaches—including temporal modeling, reinforcement learning, and causal learning—for risk prediction, treatment effect estimation, target trial emulation, and clinical decision support in diverse healthcare domains, with applications spanning oncology, obesity, and diabetes.
