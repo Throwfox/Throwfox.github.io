@@ -23,6 +23,9 @@ $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
+$medical-blue:        #0077b6; // New medical/AI theme color
+$medical-teal:        #2a9d8f; // Secondary accent
+
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
@@ -34,5 +37,5 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($medical-blue, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
