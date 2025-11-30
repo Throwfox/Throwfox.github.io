@@ -2,89 +2,66 @@
   type: map
   contents:
     - name: Full Name
-      value: Hao Dai
-    - name: Date of Birth
-      value: 12th June 1988
+      value: Hao Dai, PhD
+    - name: Position
+      value: Postdoctoral Fellow
+    - name: Affiliation
+      value: Indiana University School of Medicine
     - name: Languages
       value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: National Yang Ming Chiao Tung University
-      year: 2016~
+    - title: Postdoc in Health Outcomes & Biomedical Informatics
+      institution: University of Florida, Gainesville, FL
+      year: 2024
       description:
-        - Institute of Information Management.
-        - Health information technology. 
-        - title: Machine Learning.
-          contents:
-            - Time-series analysis.
-            - Health informatics.
-            - Explainable AI.
+        - Supervisor: Jiang Bian, PhD
+    - title: PhD in Information Management
+      institution: National Yang Ming Chiao Tung University, Taiwan
+      year: 2023
+      description:
+        - Major field: Health Informatics.
+        - Dissertation: A Study of Medical Early Warning Systems Using Time-series Data.
+        - Advisor: Hsin-Ginn Hwang, PhD & Vincent S. Tseng, PhD.
     - title: PhD (Exchanged)
       institution: Shanghai Jiao Tong University
-      year: 2018~2019
+      year: 2018
       description:
-        - College of ANTAI.
-        - Information Technology.
-    - title: Master
-      institution: Nanjing Normal University
-      year: 2013~2015
+        - Antai College.
+        - Major field: Information Management.
+        - Advisor: Hsin-Ginn Hwang, PhD.
+    - title: MS in Applied Psychology
+      institution: Nanjing Normal University, Nanjing, China
+      year: 2015
       description:
         - College of Psychology.
-        - title: Applied psychology.
-          contents:
-            - Consultant.
-            - Mindfulness.
-            
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Health Informatics
-      items: 
-        - Machine/Deep Learning-based Model Developing
-        - Health Digital Twins
-    - title: Time-series Data Analysis.
-      items: 
-        - Early Prediction.
-        - Long-term Prediction
-        - Classification.
-    - title: Intelligent Healthcare Application.
-      items:
-        - In-hospital Support System.
-        - Portable Efficiency System.
-    - title: Explainable Artificial Intelligence.
-      items:
-        - Multi-objectives XAI.
-        - XAI for the medical environment.
-        - XAI for time-series analytics.
-- title: Lifestyle
-  type: list
-  contents:
-    - <u>Hobbies:</u> Workout, Photography, Playing piano.
 
-- title: Skills
+- title: Research Interests
   type: nested_list
-  contents: 
-  - title: Engineering & Academic 
-    items:
-    - Expertise in programming languages, such as Python, R
-    - Proficient in different machine learning and deep learning frameworks, such as Sciki-Learn, PyTorch, and Keras
-    - Experienced in applied machine learning and data mining algorithms for developing different applications
-    - Experienced in interdisciplinary collaborations with different institutes
-    - Good communication skills, strong motivation, respect for laboratory members, ability to advance a project productively and work independently
- 
-- title: Awards
+  contents:
+    - title: Methodological Focus
+      items: 
+        - Causal Inference
+        - Machine Learning (Temporal Modeling, Reinforcement Learning)
+        - Risk Prediction & Treatment Effect Estimation
+    - title: Application Domains
+      items: 
+        - Oncology
+        - Obesity
+        - Diabetes
+        - Clinical Decision Support
+
+- title: Professional Memberships
   type: time_table
   contents:
-    - year: 2017
-      items: 
-        - Award of Outstanding Students 
-        - Best Paper of UHIMA 2017
-    - year: 2016~2018
-      items: 
-        - Award of Outstanding Students
+    - title: Member
+      institution: American Society of Clinical Oncology (ASCO)
+      year: 2025~
+    - title: Member
+      institution: American Medical Informatics Association (AMIA)
+      year: 2024~
 
 - title: Professional Service
   type: time_table
@@ -100,3 +77,12 @@
       - International Journal of Modelling and Simulation
       - European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)
 
+- title: Skills
+  type: nested_list
+  contents: 
+  - title: Engineering & Academic 
+    items:
+    - Expertise in programming languages (Python, R)
+    - Proficient in machine learning frameworks (Scikit-Learn, PyTorch, Keras)
+    - Experienced in applied machine learning and data mining for healthcare applications
+    - Interdisciplinary collaboration experience
