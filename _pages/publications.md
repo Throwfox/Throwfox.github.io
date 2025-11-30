@@ -5,6 +5,7 @@ title: Publications
 description: All publications are ordered by year.
 years: [2023,2022,2021]
 nav: true
+nav_order: 1
 
 ---
 
