@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Projects
+title: Research Agenda
 permalink: /projects/
-description: All academic projects are shown as follows. 
+description: "Leveraging Artificial Intelligence to Facilitate Real-World Evidence in Medicine"
 nav: true
-display_categories: [Academic]
-horizontal: False
+nav_order: 2
+display_categories: [Overview, Methodologies, Techniques]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -30,7 +31,7 @@ horizontal: False
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
-  </div>
+    </div>
   {%- endif -%}
   {% endfor %}
 
@@ -51,7 +52,7 @@ horizontal: False
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
-  </div>
+    </div>
   {%- endif -%}
 {%- endif -%}
 </div>
